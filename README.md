@@ -33,7 +33,7 @@ A: Buď webu trvá dlouho hodnotu změnit, nebo jsem si toho nevšiml! V každé
 Q: Plánuješ i nějaké jiné informativní stránky nejen o koronaviru?  
 A: Samozřejmě, když už umím to html a css. Všechno vás čeká v budoucnosti.  
 
-Q: Programuješ i nějaké jiné věci než webové stránky?
+Q: Programuješ i nějaké jiné věci než webové stránky?  
 A: Ano, momentálně pracuji s Javou, C#, C++ a občas Pythonem. Vše najdeš na mém profilu zde. https:/github.com/steveruu
 
 
