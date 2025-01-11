@@ -1,2 +1,3 @@
 ### A trip to the past
-steveruu.github.io/aktualnistupenpes/
+https://steveruu.github.io/aktualnistupenpes/
+
